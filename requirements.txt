@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+gunicorn
+numpy
+scikit-learn
+waitress
+pandas
+keras
+tensorflow-cpu
